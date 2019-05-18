@@ -1,6 +1,6 @@
 # Angular Data Gauges
 
-Angular app using [Google Charts](https://google-developers.appspot.com/chart/) to visualise data using [gauges](https://google-developers.appspot.com/chart/interactive/docs/gallery/gauge)
+Angular app using the [Google Charts](https://google-developers.appspot.com/chart/) API to visualise data using [gauges](https://google-developers.appspot.com/chart/interactive/docs/gallery/gauge)
 
 *** Note: to open web links in a new window use: _ctrl+click on link_**
 
@@ -45,26 +45,26 @@ export class AppComponent {
 
   @ViewChild('googlechart')
   googlechart: GoogleChartsModule;
-	chart = {
-		title: 'angular-data-gauges',
-		type: 'Gauge',
-		data: [
-			['Memory', 50],
-			['CPU', 90],
-			['Battery', 60]
-		],
-		options: {
-			width: 400,
-			height: 120,
-			greenFrom: 0,
-			greenTo: 75,
-			redFrom: 90,
-			redTo: 100,
-			yellowFrom: 75,
-			yellowTo: 90,
-			minorTicks: 5
-		}
-	};
+  chart = {
+    title: 'angular-data-gauges',
+    type: 'Gauge',
+    data: [
+      ['Memory', 50],
+      ['CPU', 90],
+      ['Battery', 60]
+    ],
+    options: {
+      width: 400,
+      height: 120,
+      greenFrom: 0,
+      greenTo: 75,
+      redFrom: 90,
+      redTo: 100,
+      yellowFrom: 75,
+      yellowTo: 90,
+      minorTicks: 5
+    }
+  };
 }
 ```
 
@@ -88,4 +88,4 @@ export class AppComponent {
 
 ## Contact
 
-Created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
+Repor created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
