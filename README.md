@@ -25,11 +25,11 @@ Google chart tools have a wide range of interactive charts and data tools.
 
 ## Technologies
 
-* [Angular CLI v7.3.9](https://github.com/angular/angular-cli)
+* [Angular CLI v8.0.1](https://github.com/angular/angular-cli)
 
-* [Angular framework v7.2.15](https://angular.io/)
+* [Angular framework v8.0.0](https://angular.io/)
 
-* [npm angular google charts v0.1.4](https://www.npmjs.com/package/angular-google-charts)
+* [npm angular google charts v0.1.5](https://www.npmjs.com/package/angular-google-charts)
 
 ## Setup
 
@@ -88,4 +88,4 @@ export class AppComponent {
 
 ## Contact
 
-Repor created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
+Repo created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
