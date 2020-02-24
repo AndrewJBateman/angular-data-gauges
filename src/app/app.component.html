@@ -1,11 +1,14 @@
-<h1>{{ chart.title }}</h1>
+<div class="main-container">
+  <h1>{{ chart.title }}</h1>
 
-<google-chart 
-  #googlechart
-  [title]="chart.title"
-  [type]="chart.type"
-  [data]="chart.data"
-  [options]="chart.options">
-</google-chart>
+  <google-chart 
+    #googlechart
+    [title]="chart.title"
+    [type]="chart.type"
+    [data]="chart.data"
+    [options]="chart.options">
+  </google-chart>
+</div>
+
  
  

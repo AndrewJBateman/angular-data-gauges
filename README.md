@@ -25,10 +25,7 @@ Google chart tools have a wide range of interactive charts and data tools.
 
 ## Technologies
 
-* [Angular v9.0.2](https://github.com/angular/angular-cli)
-
-* [Angular framework v8.0.0](https://angular.io/)
-
+* [Angular v9.1.0](https://angular.io/)
 * [npm angular google charts v0.1.5](https://www.npmjs.com/package/angular-google-charts)
 
 ## Setup
@@ -72,13 +69,12 @@ export class AppComponent {
 ## Features
 
 * Dashboards can be used to manage multiple charts that share the same data.
-
 * Data can also be fetched from a REST API endpoint or database service call.
 
 ## Status & To-Do List
 
 * Status: basic working app that displays 3 gauges with green, orange and red colours configurable from the `app.component.ts` file.
-
+* Updated to Angular 9.
 * To-Do: Add functionality and extend to include connection to an API.
 
 ## Inspiration
