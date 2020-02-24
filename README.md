@@ -25,7 +25,7 @@ Google chart tools have a wide range of interactive charts and data tools.
 
 ## Technologies
 
-* [Angular CLI v8.0.1](https://github.com/angular/angular-cli)
+* [Angular v9.0.2](https://github.com/angular/angular-cli)
 
 * [Angular framework v8.0.0](https://angular.io/)
 
@@ -33,7 +33,8 @@ Google chart tools have a wide range of interactive charts and data tools.
 
 ## Setup
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+* Install dependencies using `npm i`.
+* Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code Examples
 
