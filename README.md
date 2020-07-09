@@ -1,19 +1,22 @@
 # :zap: Angular Data Gauges
 
-Angular app using the [Google Charts](https://google-developers.appspot.com/chart/) API to visualise data using [gauges](https://google-developers.appspot.com/chart/interactive/docs/gallery/gauge)
+* Angular 10 app using the [Google Charts](https://google-developers.appspot.com/chart/) API to visualise data using [gauges](https://google-developers.appspot.com/chart/interactive/docs/gallery/gauge)
 
 *** Note: to open web links in a new window use: _ctrl+click on link_**
 
 ## :page_facing_up: Table of contents
 
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+* [:zap: Angular Data Gauges](#zap-angular-data-gauges)
+  * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
+  * [:books: General info](#books-general-info)
+  * [:camera: Screenshots](#camera-screenshots)
+  * [:signal_strength: Technologies](#signal_strength-technologies)
+  * [:floppy_disk: Setup](#floppy_disk-setup)
+  * [:computer: Code Examples](#computer-code-examples)
+  * [:cool: Features](#cool-features)
+  * [:clipboard: Status & To-Do List](#clipboard-status--to-do-list)
+  * [:clap: Inspiration](#clap-inspiration)
+  * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
 
@@ -25,8 +28,8 @@ Google chart tools have a wide range of interactive charts and data tools.
 
 ## :signal_strength: Technologies
 
-* [Angular v9.1.0](https://angular.io/)
-* [npm angular google charts v0.1.5](https://www.npmjs.com/package/angular-google-charts)
+* [Angular v10](https://angular.io/)
+* [npm angular google charts v1](https://www.npmjs.com/package/angular-google-charts)
 
 ## :floppy_disk: Setup
 
@@ -74,13 +77,12 @@ export class AppComponent {
 ## :clipboard: Status & To-Do List
 
 * Status: basic working app that displays 3 gauges with green, orange and red colours configurable from the `app.component.ts` file.
-* Updated to Angular 9.
+* Updated to Angular 10.
 * To-Do: Add functionality and extend to include connection to an API.
 
 ## :clap: Inspiration
 
 * [Medium blog by Sunny Sun: How to create impressive looking Gauge Charts using Angular 6](https://medium.com/@sunnysun_5694/how-to-create-impressive-looking-gauge-charts-using-angular-6-8f91dfd6fc5c)
-
 * [Google Charts Developers Guide](https://developers.google.com/chart/interactive/docs/gallery/controls)
 
 ## :envelope: Contact
