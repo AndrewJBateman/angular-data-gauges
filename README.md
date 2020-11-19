@@ -1,6 +1,7 @@
 # :zap: Angular Data Gauges
 
-* Angular 10 app using the [Google Charts](https://google-developers.appspot.com/chart/) API to visualise data using [gauges](https://google-developers.appspot.com/chart/interactive/docs/gallery/gauge)
+* Angular 11 app using the [Google Charts](https://google-developers.appspot.com/chart/) API to visualise data using [gauges](https://google-developers.appspot.com/chart/interactive/docs/gallery/gauge)
+* Code from [Sunny Sun, Medium](https://medium.com/@sunnysun_5694) - see [:clap: Inspiration](#clap-inspiration) below
 
 *** Note: to open web links in a new window use: _ctrl+click on link_**
 
@@ -20,7 +21,8 @@
 
 ## :books: General info
 
-Google chart tools have a wide range of interactive charts and data tools.
+* basic working app that displays 3 gauges with green, orange and red colours configurable from the `app.component.ts` file.
+* Google chart tools have a wide range of interactive charts and data tools.
 
 ## :camera: Screenshots
 
@@ -28,7 +30,7 @@ Google chart tools have a wide range of interactive charts and data tools.
 
 ## :signal_strength: Technologies
 
-* [Angular v10](https://angular.io/)
+* [Angular v11](https://angular.io/)
 * [npm angular google charts v1](https://www.npmjs.com/package/angular-google-charts)
 
 ## :floppy_disk: Setup
@@ -76,8 +78,7 @@ export class AppComponent {
 
 ## :clipboard: Status & To-Do List
 
-* Status: basic working app that displays 3 gauges with green, orange and red colours configurable from the `app.component.ts` file.
-* Updated to Angular 10.
+* Status: Working
 * To-Do: Add functionality and extend to include connection to an API.
 
 ## :clap: Inspiration
