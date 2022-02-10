@@ -1,7 +1,6 @@
 # :zap: Angular Data Gauges
 
-* Angular app using the [Google Charts](https://google-developers.appspot.com/chart/) API to visualise data using [gauges](https://google-developers.appspot.com/chart/interactive/docs/gallery/gauge)
-* Code from [Sunny Sun, Medium](https://medium.com/@sunnysun_5694) - see [:clap: Inspiration](#clap-inspiration) below
+* Angular app using the [Google Charts](https://developers.google.com/chart) API to visualise data using [gauges](https://google-developers.appspot.com/chart/interactive/docs/gallery/gauge)
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/angular-data-gauges?style=plastic)
@@ -21,6 +20,7 @@
   * [:cool: Features](#cool-features)
   * [:clipboard: Status & To-Do List](#clipboard-status--to-do-list)
   * [:clap: Inspiration](#clap-inspiration)
+  * [:file_folder: License](#file_folder-license)
   * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
@@ -34,7 +34,7 @@
 
 ## :signal_strength: Technologies
 
-* [Angular v12](https://angular.io/)
+* [Angular v13](https://angular.io/)
 * [npm angular google charts v2](https://www.npmjs.com/package/angular-google-charts)
 
 ## :floppy_disk: Setup
