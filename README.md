@@ -34,7 +34,7 @@
 
 ## :signal_strength: Technologies
 
-* [Angular v13](https://angular.io/)
+* [Angular v14](https://angular.io/)
 * [npm angular google charts v2](https://www.npmjs.com/package/angular-google-charts)
 
 ## :floppy_disk: Setup
